@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-http-doorbell",
+  "name": "homebridge-http-doorbell-v2",
   "version": "1.1.0",
   "description": "Homebridge plugin for a remote doorbell based on http",
   "main": "index.js",
